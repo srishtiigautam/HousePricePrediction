@@ -1,6 +1,6 @@
 # HousePricePrediction
 
-Welcome to the House Price Prediction project! In this repository, the aim to predict house prices using data analysis and machine learning models. This project is part of the task assigned by the Bharat Internship opportunity to help you understand the process of predicting house prices by leveraging data analysis and machine learning techniques.
+Welcome to the House Price Prediction project! In this repository, the aim to predict house prices using data analysis and machine learning models. This project is part of the task assigned by the Bharat Internship opportunity to understand the process of predicting house prices by leveraging data analysis and machine learning techniques.
 
 ## Table of Contents
 
