@@ -14,17 +14,17 @@ Welcome to the House Price Prediction project! In this repository, the aim to pr
 
 ## Introduction
 
-Predicting house prices is a common and essential task in real estate and finance. This project focuses on using data analysis and machine learning to build accurate house price prediction models. By following the steps outlined in this repository, you will learn how to:
+Predicting house prices is a common and essential task in real estate and finance. This project focuses on using data analysis and machine learning to build accurate house price prediction models. By following the steps outlined in this repository that contains:
 
-- Collect and preprocess housing data.
-- Analyze the dataset to gain insights.
-- Select and implement various machine learning models.
-- Evaluate model performance.
-- Make house price predictions.
+- Collecting and preprocessing housing data.
+- Analyzing the dataset to gain insights.
+- Selecting and implementing various machine learning models.
+- Evaluating model performance.
+- Making house price predictions.
 
 ## Data
 
-The dataset used for this project can be found in the [data](/dataset) directory. It includes various features such as the number of bedrooms, square footage, neighborhood information, and more. 
+The dataset used for this project can be found in the `/dataset` directory. It includes various features such as the number of bedrooms, square footage, neighborhood information, and more. 
 
 ## Data Analysis
 
@@ -32,7 +32,7 @@ Before building the machine learning models, a thorough data analysis is perform
 
 ## Machine Learning Models
 
-We employ a variety of machine learning models for house price prediction. The models are implemented using popular libraries like Scikit-Learn and TensorFlow. You can find the model code and notebooks in the [models](/models) directory. The models include:
+We employ a variety of machine learning models for house price prediction. The models are implemented using popular libraries like Scikit-Learn and TensorFlow. The models include:
 
 - Linear Regression
 - Decision Trees
